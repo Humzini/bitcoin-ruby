@@ -159,7 +159,7 @@ as well as the private key for the address required to sign for it.
 
 == Documentation
 
-Always trying to improve, any help appreciated! If anything is unclear to you, let us know!
+(We are/This project is) Always trying to improve, any help (is/would be) appreciated! If anything is unclear to you, let us know!
 
 Documentation is generated using yardoc:
 
